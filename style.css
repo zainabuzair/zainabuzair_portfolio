@@ -342,6 +342,17 @@ h2::after {
     flex-direction: column;
 }
 
+/* Custom list styling for Experience Section */
+.timeline-content ul {
+    margin-top: 0.5rem;
+    padding-left: 1.2rem;
+    color: #cbd5e1;
+}
+
+.timeline-content ul li {
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+}
 .contact-form input,
 .contact-form textarea {
     padding: 0.9rem;
